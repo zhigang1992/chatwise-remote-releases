@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (11)</title>
+      <pubDate>Thu, 01 Oct 2026 08:22:22 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Chat options moved to a toolbar button; camera attachments on iPhone.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-11/ChatWise-Remote-0.1.0-11.zip" type="application/octet-stream" sparkle:edSignature="7gib2HzUJmbHRRxcf2467nvhVx7zq3mhdFgjZeOOjyFNaJD3icRlX6scfDAhrkK6prthK8O4JgQgUNKwhO2HCw==" length="8736834" />
+    </item>
+    <item>
       <title>0.1.0 (10)</title>
       <pubDate>Thu, 01 Oct 2026 07:44:36 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
