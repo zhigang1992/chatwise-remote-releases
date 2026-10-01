@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (12)</title>
+      <pubDate>Thu, 01 Oct 2026 09:45:17 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Chat options sheet fixes; pick the agent&#x27;s working folders from a client.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-12/ChatWise-Remote-0.1.0-12.zip" type="application/octet-stream" sparkle:edSignature="nh0w+q2WXHxCFgibeDVDQKALy2aacFEuD8HdXXMX7MN0bJLoXTalp0wgtmXYbmI5N35guyWxloJiE1J7EqEUBQ==" length="8811633" />
+    </item>
+    <item>
       <title>0.1.0 (11)</title>
       <pubDate>Thu, 01 Oct 2026 08:22:22 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
