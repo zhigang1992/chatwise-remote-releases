@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (9)</title>
+      <pubDate>Thu, 01 Oct 2026 05:12:16 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Now runs on macOS 15 Sequoia and later (Liquid Glass styling on macOS 26).</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-9/ChatWise-Remote-0.1.0-9.zip" type="application/octet-stream" sparkle:edSignature="Q5Q85VWKNs8ORia1QOGRxHprrHlkxF1B+fzPgkLa6lqYcicRoz+DC3yD9aAg8NPpfp136rdccp8xwJP/A17cAA==" length="8646488" />
+    </item>
+    <item>
       <title>0.1.0 (8)</title>
       <pubDate>Thu, 01 Oct 2026 04:55:37 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
