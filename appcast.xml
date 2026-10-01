@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (8)</title>
+      <pubDate>Thu, 01 Oct 2026 04:55:37 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix: the server&#x27;s pairing token now stays the same across relaunches and updates. Re-pair your devices once after installing this version.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-8/ChatWise-Remote-0.1.0-8.zip" type="application/octet-stream" sparkle:edSignature="WkXxbe1BqzlkkHCpiVPSwfoibEZRuU2rRccCsXPDdx69O9WlTWQBY9mSdxtHr83QKMfCL+zVHMBRLNw1ZHaCAw==" length="8619414" />
+    </item>
+    <item>
       <title>0.1.0 (7)</title>
       <pubDate>Thu, 01 Oct 2026 04:46:19 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
