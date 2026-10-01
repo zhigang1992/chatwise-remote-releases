@@ -11,4 +11,4 @@ that can also act as the server for your other devices.
 Download the latest `.zip` from [Releases](../../releases), unzip, and move
 **ChatWise Remote.app** to Applications. The app updates itself (Sparkle; feed: `appcast.xml`).
 
-Requires macOS 26. Not affiliated with ChatWise.
+Requires macOS 15 or later. Not affiliated with ChatWise.
