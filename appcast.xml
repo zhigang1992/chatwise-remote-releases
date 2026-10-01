@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (10)</title>
+      <pubDate>Thu, 01 Oct 2026 07:44:36 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Composer toolbar: web search, MCP servers, reasoning effort and agent mode, run on the Mac.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-10/ChatWise-Remote-0.1.0-10.zip" type="application/octet-stream" sparkle:edSignature="6QQPnWFrV1M4/tuFiIYY/xqDNkqBWLzh/m8SkxWri84UmcnugPT8uIjLj7p5nI/1nAIE1dbRDVcCrsbX474BBA==" length="8740065" />
+    </item>
+    <item>
       <title>0.1.0 (9)</title>
       <pubDate>Thu, 01 Oct 2026 05:12:16 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
