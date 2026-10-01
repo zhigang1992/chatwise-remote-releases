@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (7)</title>
+      <pubDate>Thu, 01 Oct 2026 04:46:19 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New app icon. In-app QR scanner on iPhone and &#x27;Paste pairing link&#x27; on Mac. Bridge default port is now 41893 (paired devices migrate automatically).</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-7/ChatWise-Remote-0.1.0-7.zip" type="application/octet-stream" sparkle:edSignature="xIAkBJxdnHrhpIzhxkUpSK+tLFN9AGKsLs6RbqnsW3Dl8pQRZstSftnOXRoud+qj4kVYn0jD72zeoWBMr6t7Cg==" length="8619802" />
+    </item>
+    <item>
       <title>0.1.0 (6)</title>
       <pubDate>Thu, 01 Oct 2026 03:47:21 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
