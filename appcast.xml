@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (18)</title>
+      <pubDate>Fri, 02 Oct 2026 11:29:15 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Set the default model for new chats from the model picker (right-click a model).</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-18/ChatWise-Remote-0.1.0-18.zip" type="application/octet-stream" sparkle:edSignature="B5t6dwpyndcAKwbfWu3+FH05P9cI6A5pK2q9U2wQhydNGlfLp7MPe6Zkd2D6REmI1XBA7u5cViGLI3AWLnjBAQ==" length="8869869" />
+    </item>
+    <item>
       <title>0.1.0 (16)</title>
       <pubDate>Fri, 02 Oct 2026 10:36:06 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
