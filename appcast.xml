@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (21)</title>
+      <pubDate>Sat, 03 Oct 2026 04:40:30 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Answer ChatWise&#x27;s questions and approve tool calls from your iPhone or other Mac</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-21/ChatWise-Remote-0.1.0-21.zip" type="application/octet-stream" sparkle:edSignature="RLYnPswLRj8JI1b3BK3jYVvBeJMqX2BFckxBaX9pSrNaOqPBPh9RCYR2Qt12bp53tqhJR6UnmN3dFO8Wfm72Dg==" length="9006300" />
+    </item>
+    <item>
       <title>0.1.0 (20)</title>
       <pubDate>Fri, 02 Oct 2026 16:11:49 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
