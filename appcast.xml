@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (29)</title>
+      <pubDate>Thu, 08 Oct 2026 08:19:41 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mac: switch an unpaired client back to server mode; fix for blurred list/chat in inactive full screen</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-29/ChatWise-Remote-0.1.0-29.zip" type="application/octet-stream" sparkle:edSignature="TdQwb5Xdlro2Pb7C1She7X2Xk6LZb8XzQ6taFX7zPzHbP50+6cUnQ8REQakdcvxRPaD0fHbVOBzyPy3MTcEaBw==" length="11044401" />
+    </item>
+    <item>
       <title>0.1.0 (28)</title>
       <pubDate>Thu, 08 Oct 2026 00:55:04 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
