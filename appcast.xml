@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (28)</title>
+      <pubDate>Thu, 08 Oct 2026 00:55:04 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Build 28: drafts per chat, message editing, on-screen Send key follows the Return-key setting.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-28/ChatWise-Remote-0.1.0-28.zip" type="application/octet-stream" sparkle:edSignature="8/6/dCpxzO+VAddGY3lJqBobGvLeFLMpEsmWRkNVw7L9AHHkpCyipYlHKEspNlJ1JfqJ/GzvEwfWonAvL5jeDA==" length="11035348" />
+    </item>
+    <item>
       <title>0.1.0 (27)</title>
       <pubDate>Wed, 07 Oct 2026 16:45:48 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
