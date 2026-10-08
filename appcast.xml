@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (30)</title>
+      <pubDate>Thu, 08 Oct 2026 12:47:08 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Tool call payloads stay inside their card</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-30/ChatWise-Remote-0.1.0-30.zip" type="application/octet-stream" sparkle:edSignature="M9TxZwrGlSB59oY3LVworU6dc2pBMZs96hwIhgtN8a9gx4qbBg+cllNnIOO8ROManCh/zuKLlmTZt1z5qTAnCw==" length="11043228" />
+    </item>
+    <item>
       <title>0.1.0 (29)</title>
       <pubDate>Thu, 08 Oct 2026 08:19:41 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
