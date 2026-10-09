@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (31)</title>
+      <pubDate>Fri, 09 Oct 2026 15:32:44 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Paste images and drag images or files into the composer on iOS and macOS.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-31/ChatWise-Remote-0.1.0-31.zip" type="application/octet-stream" sparkle:edSignature="PktHidXnfkII3cQtUSTDZO8OTqQHjyErwATaW2X4JPiRSZOyCsYu0QTcIHuQXHCfMWG4dOo2XVM6mw6b/Ge4Dw==" length="11079654" />
+    </item>
+    <item>
       <title>0.1.0 (30)</title>
       <pubDate>Thu, 08 Oct 2026 12:47:08 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
