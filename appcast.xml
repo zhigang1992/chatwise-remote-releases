@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (33)</title>
+      <pubDate>Sat, 10 Oct 2026 01:08:17 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix invisible composer text caused by layout measurement.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-33/ChatWise-Remote-0.1.0-33.zip" type="application/octet-stream" sparkle:edSignature="CNiWgIg92ler1vwkfP0YXfsM1Z3SfOYG1Sau68OcN81BYHBPE8ryhSRs02OesAx9M3B+JlhfxiQZzVeauzWZCw==" length="11084796" />
+    </item>
+    <item>
       <title>0.1.0 (32)</title>
       <pubDate>Sat, 10 Oct 2026 00:50:22 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
