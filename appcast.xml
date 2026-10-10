@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (32)</title>
+      <pubDate>Sat, 10 Oct 2026 00:50:22 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix composer text becoming invisible in light mode on Mac.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-32/ChatWise-Remote-0.1.0-32.zip" type="application/octet-stream" sparkle:edSignature="HZXiIBTaKCyDvXFFYiJ1GzUhPd3ob7LKk7X7j3A4CiGWeKSH53ZVavk8fUxX/hztEd/uOpCnuzFBL4q3gp7UCg==" length="11084974" />
+    </item>
+    <item>
       <title>0.1.0 (31)</title>
       <pubDate>Fri, 09 Oct 2026 15:32:44 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
