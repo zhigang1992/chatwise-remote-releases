@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (35)</title>
+      <pubDate>Sun, 11 Oct 2026 17:24:50 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Disconnect banner; fix silent new chats with no model; refresh composer library when ready</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-35/ChatWise-Remote-0.1.0-35.zip" type="application/octet-stream" sparkle:edSignature="ZQWdX7jANnN4USRsxeXcACZ5oYFe5UDf0EE9Fq3NWQjvHheho8pt5ei0OuHjQrMP2pNjyW+/pWOMzFKhxtGxCA==" length="11260218" />
+    </item>
+    <item>
       <title>0.1.0 (34)</title>
       <pubDate>Sat, 10 Oct 2026 02:38:13 GMT</pubDate>
       <sparkle:version>34</sparkle:version>
