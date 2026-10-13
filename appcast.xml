@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (39)</title>
+      <pubDate>Tue, 13 Oct 2026 07:12:46 GMT</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Improved scroll stability in long conversations and while replies are streaming.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-39/ChatWise-Remote-0.1.0-39.zip" type="application/octet-stream" sparkle:edSignature="xrt6zwt1Oh+AqYns1A99kxShgr0kQn2TheTGNrBPvjSCyxJeIPFuyGyPKvku5GgBotpH1On4MNdjSPEmd0DpAQ==" length="11348163" />
+    </item>
+    <item>
       <title>0.1.0 (38)</title>
       <pubDate>Tue, 13 Oct 2026 05:56:41 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
