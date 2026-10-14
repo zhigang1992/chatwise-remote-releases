@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (44)</title>
+      <pubDate>Wed, 14 Oct 2026 14:11:38 GMT</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Much faster long chats: native markdown rendering (scrolling and streaming stay smooth), tappable links, artifacts back.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-44/ChatWise-Remote-0.1.0-44.zip" type="application/octet-stream" sparkle:edSignature="tSdxiWNfOICvB79k3otPUkzew3nIRoRiFolSNcMFMqKbk2pNfbnCoBfgS2afrkI7zOiZqpRzwxkW6qqSMvrtBQ==" length="12214336" />
+    </item>
+    <item>
       <title>0.1.0 (41)</title>
       <pubDate>Wed, 14 Oct 2026 03:25:08 GMT</pubDate>
       <sparkle:version>41</sparkle:version>
