@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (48)</title>
+      <pubDate>Sat, 17 Oct 2026 12:31:42 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes iPad floating and undocked keyboards lifting the chat composer.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-48/ChatWise-Remote-0.1.0-48.zip" type="application/octet-stream" sparkle:edSignature="NTPrsRMsCCfkAS4/Oh9G6595P0axqycO6+S5DERQYpq/EbGRSyBDeP/wdbY0kA7VUbiW2wWS9K0OuGD+Q2BBAA==" length="12180395" />
+    </item>
+    <item>
       <title>0.1.0 (47)</title>
       <pubDate>Sat, 17 Oct 2026 03:20:41 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
