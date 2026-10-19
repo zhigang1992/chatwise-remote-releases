@@ -3,6 +3,15 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (51)</title>
+      <pubDate>Mon, 19 Oct 2026 04:13:23 GMT</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix crash when opening a push notification; Settings toggle stays off until allowed; reply preview in the notification body.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-51/ChatWise-Remote-0.1.0-51.zip" type="application/octet-stream" sparkle:edSignature="7wS4eY7FYALciKQZqHkEkGoyDS75gnPKLpKJyTfF4f3t3y4wcq6FSm9Xeddg/ggB/BdDsM9GYnc+4/A1d1zzDA==" length="12293680" />
+    </item>
+    <item>
       <title>0.1.0 (50)</title>
       <pubDate>Mon, 19 Oct 2026 03:53:06 GMT</pubDate>
       <sparkle:version>50</sparkle:version>
