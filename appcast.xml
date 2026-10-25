@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (56)</title>
+      <pubDate>Sun, 25 Oct 2026 16:17:11 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Restores interactive HTML artifact previews and rendered SVG previews. JavaScript and network resources work; Preview opens by default, with Markdown preview and Code/Copy retained. Existing saved artifacts work without regeneration. Improves notarization upload resilience and server launch lifecycle. Mac requires Apple silicon and macOS 15 or later.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-56/ChatWise-Remote-0.1.0-56.zip" type="application/octet-stream" sparkle:edSignature="wjTzQwKG6mg5giNwaBTe1RQeWMUb3SmtUU4LmskbxPJ7lG3RHxLyJCipZ+2Dn8RJs6AwZcQyPeH8k2wcJLzZAg==" length="96060724" />
+    </item>
+    <item>
       <title>0.1.0 (54)</title>
       <pubDate>Sun, 25 Oct 2026 14:39:45 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
