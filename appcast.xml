@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (54)</title>
+      <pubDate>Sun, 25 Oct 2026 14:39:45 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Owned Pi backend on Mac with centralized chat history and image support. Updated iPhone and Mac remote connections, reasoning controls and approved native tools. Adds approved DeepSeek web search and versioned artifacts: Markdown preview and HTML/SVG source view. Configure provider accounts in Mac Settings. Mac requires Apple silicon and macOS 15 or later.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-54/ChatWise-Remote-0.1.0-54.zip" type="application/octet-stream" sparkle:edSignature="Sc0WU91CbBLC8OjA+ZcLTuEaZkvdhlqjqhGvF7d//SLUEpsO/m5AZmxFmtuppaM3j9EZfAld8kudZdrjRFqKBg==" length="96058240" />
+    </item>
+    <item>
       <title>0.1.0 (52)</title>
       <pubDate>Mon, 19 Oct 2026 09:18:47 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
