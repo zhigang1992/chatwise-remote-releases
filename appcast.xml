@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (58)</title>
+      <pubDate>Mon, 26 Oct 2026 08:49:51 GMT</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>New replies stay anchored at your prompt until you choose to follow output. Restores message editing and regeneration, and fixes Stop during startup and send acceptance.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-58/ChatWise-Remote-0.1.0-58.zip" type="application/octet-stream" sparkle:edSignature="0d+cF7Pvqp6snq3C0eKUSVH+j6bFHxh9dGLuvLTZ7niPrlwM+1vQSjPX6BpB8oVOyN6lfxA+On9R8r5EwR7VBA==" length="96087116" />
+    </item>
+    <item>
       <title>0.1.0 (57)</title>
       <pubDate>Sun, 25 Oct 2026 17:48:16 GMT</pubDate>
       <sparkle:version>57</sparkle:version>
