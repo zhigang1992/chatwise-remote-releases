@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (60)</title>
+      <pubDate>Tue, 27 Oct 2026 04:03:15 GMT</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Fixes scrolling while responses generate: manual scrolling stops following immediately, and Jump to Latest resumes it. Chats refresh silently on return to iPhone or iPad, with a Retry banner on connection failures. Removes repeated response model labels and extra streaming text fades.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-60/ChatWise-Remote-0.1.0-60.zip" type="application/octet-stream" sparkle:edSignature="NKQX9arYVUzD2EuJKZbwTXTCua+NTKU3/2tU/7JZDQkWfB99afg5qBPWFLYEDbakjeibkwP/HbK/eGR/siP6Ag==" length="97611201" />
+    </item>
+    <item>
       <title>0.1.0 (59)</title>
       <pubDate>Tue, 27 Oct 2026 02:28:49 GMT</pubDate>
       <sparkle:version>59</sparkle:version>
