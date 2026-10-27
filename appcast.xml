@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (64)</title>
+      <pubDate>Tue, 27 Oct 2026 09:21:51 GMT</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Fix excess iPhone composer spacing; load chat history in lazy, explicit pages with older chats collapsed by default.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-64/ChatWise-Remote-0.1.0-64.zip" type="application/octet-stream" sparkle:edSignature="5EESAu5ZpmW0ILbfXy39PoBr2EfbQowCJhIuvIP+0HT+OpF20i1zy4PfvZBSpuou+SRwnLUmK+unrJhNRw0ZBQ==" length="97681448" />
+    </item>
+    <item>
       <title>0.1.0 (63)</title>
       <pubDate>Tue, 27 Oct 2026 08:35:54 GMT</pubDate>
       <sparkle:version>63</sparkle:version>
