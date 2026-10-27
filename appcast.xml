@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (61)</title>
+      <pubDate>Tue, 27 Oct 2026 05:10:25 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>iPhone and iPad use native iOS text sizes and Dynamic Type. Larger text layouts, keyboard input, project search and local Incognito are refined; streaming scroll behavior remains fixed.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-61/ChatWise-Remote-0.1.0-61.zip" type="application/octet-stream" sparkle:edSignature="X9ZkLz6yTG70h9Z0WEft0s78qwh9IX4/HzPLy8biXJ/oR6xkpTfflglK3S8LnJfUnANs/f8/xhm5bgDr/D5eBA==" length="97622352" />
+    </item>
+    <item>
       <title>0.1.0 (60)</title>
       <pubDate>Tue, 27 Oct 2026 04:03:15 GMT</pubDate>
       <sparkle:version>60</sparkle:version>
