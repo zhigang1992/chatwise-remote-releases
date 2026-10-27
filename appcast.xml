@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (59)</title>
+      <pubDate>Tue, 27 Oct 2026 02:28:49 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Native Projects with shared instructions and scoped search; a polished Mac, iPhone and iPad chat interface; immediate New Incognito and conversion, with saved history protected by local Touch ID or Face ID.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-59/ChatWise-Remote-0.1.0-59.zip" type="application/octet-stream" sparkle:edSignature="3AE+zwnG+SQ3OMwgar7k/bDci/ys97XjrPxiAx35Hui2F4Tg/ZKxjWj+w1SGl8BqnMzEsESZ526C/8e6FAvyBg==" length="97611115" />
+    </item>
+    <item>
       <title>0.1.0 (58)</title>
       <pubDate>Mon, 26 Oct 2026 08:49:51 GMT</pubDate>
       <sparkle:version>58</sparkle:version>
