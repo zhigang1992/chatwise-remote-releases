@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (63)</title>
+      <pubDate>Tue, 27 Oct 2026 08:35:54 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Fix streaming update backlog and conversation-list refresh stalls while preserving native Markdown rendering.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-63/ChatWise-Remote-0.1.0-63.zip" type="application/octet-stream" sparkle:edSignature="FJwcPz6hQacQNo+fnHkx0RZst5M2Vbn3qZLH5ziHmHv6QjtYvvnV91bwNVYbQ4IVCma0AJOyJcxxo7z0CL4cCw==" length="97652873" />
+    </item>
+    <item>
       <title>0.1.0 (62)</title>
       <pubDate>Tue, 27 Oct 2026 07:33:48 GMT</pubDate>
       <sparkle:version>62</sparkle:version>
