@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (62)</title>
+      <pubDate>Tue, 27 Oct 2026 07:33:48 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Improve chat navigation and loading, quieter reconnect status, neutral model and project pickers, and cleaner conversation gestures.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-62/ChatWise-Remote-0.1.0-62.zip" type="application/octet-stream" sparkle:edSignature="5V8eSZ9x/fbdF8mLsJ+9EARCgJOT7LFboMB8lwNjmDRIhXsgD+u/NQrrfIKrv27RWYq3CdRsxnaFvUI7kI+uBA==" length="97636524" />
+    </item>
+    <item>
       <title>0.1.0 (61)</title>
       <pubDate>Tue, 27 Oct 2026 05:10:25 GMT</pubDate>
       <sparkle:version>61</sparkle:version>
