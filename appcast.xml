@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (65)</title>
+      <pubDate>Wed, 28 Oct 2026 08:43:15 GMT</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Fix the prompt Edit button on the owned backend and keep collapsed web search cards to one line.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-65/ChatWise-Remote-0.1.0-65.zip" type="application/octet-stream" sparkle:edSignature="9UAxCai5fpaPmN8ufjOUwd9bjgfk3H0qHwLI0ds8B4l4P0d3M5sfVoeGZgdM0rUyBLf+mKZheOpkChv+HeLPBA==" length="97681337" />
+    </item>
+    <item>
       <title>0.1.0 (64)</title>
       <pubDate>Tue, 27 Oct 2026 09:21:51 GMT</pubDate>
       <sparkle:version>64</sparkle:version>
