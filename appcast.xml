@@ -3,6 +3,16 @@
   <channel>
     <title>ChatWise Remote</title>
     <item>
+      <title>0.1.0 (69)</title>
+      <pubDate>Fri, 30 Oct 2026 02:54:04 GMT</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[<p>Read attached PDFs with agent mode off. The attachment-only Read document tool extracts text locally, uses OCR for scans, supports page/text continuation, and cannot read other chats or arbitrary files. Original PDFs remain intact.</p>]]></description>
+      <enclosure url="https://github.com/zhigang1992/chatwise-remote-releases/releases/download/v0.1.0-69/ChatWise-Remote-0.1.0-69.zip" type="application/octet-stream" sparkle:edSignature="hgbuyUb5Ql5W4P9tsEB6RLt/CeIQqYOosbvwNyb9P7/IEOSC/Xopy5FjrWKv4QcKniVCTuzHzjB7oXL6yxi+Bw==" length="97740952" />
+    </item>
+    <item>
       <title>0.1.0 (68)</title>
       <pubDate>Fri, 30 Oct 2026 02:10:58 GMT</pubDate>
       <sparkle:version>68</sparkle:version>
